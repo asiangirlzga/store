@@ -1,0 +1,9 @@
+{
+  "apps": [
+    { "name": "Sample Video Player", "pkg": "com.example.player",   "url": "https://example.com/apks/player.apk",   "sizeMb": 6,  "minSdk": 21, "tv": true,  "desc": "Light video player" },
+    { "name": "Sample File Manager",  "pkg": "com.example.files",    "url": "https://example.com/apks/files.apk",    "sizeMb": 4,  "minSdk": 21, "tv": true,  "desc": "Browse USB and storage" },
+    { "name": "Sample IPTV Lite",     "pkg": "com.example.iptv",     "url": "https://example.com/apks/iptv.apk",     "sizeMb": 9,  "minSdk": 23, "tv": true,  "desc": "Small live TV player" },
+    { "name": "Sample Phone-only App","pkg": "com.example.phone",    "url": "https://example.com/apks/phone.apk",    "sizeMb": 12, "minSdk": 21, "tv": false, "desc": "Hidden: not for TV" },
+    { "name": "Sample Heavy Game",    "pkg": "com.example.game",     "url": "https://example.com/apks/game.apk",     "sizeMb": 480,"minSdk": 26, "tv": true,  "desc": "Hidden: too large" }
+  ]
+}

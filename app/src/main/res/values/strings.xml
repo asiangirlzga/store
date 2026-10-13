@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LiteStore</string>
+
+    <!-- Create an OAuth client of type "TVs and Limited Input devices" in Google Cloud Console -->
+    <string name="google_client_id">YOUR_CLIENT_ID.apps.googleusercontent.com</string>
+    <string name="google_client_secret">YOUR_CLIENT_SECRET</string>
+
+    <!-- Optional: URL of your own catalog.json. Leave empty to use the bundled sample. -->
+    <string name="catalog_url"></string>
+</resources>

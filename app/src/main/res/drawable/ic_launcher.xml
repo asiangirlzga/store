@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="48"
+    android:viewportHeight="48">
+    <!-- Background -->
+    <path android:fillColor="#00796B" android:pathData="M8,0h32a8,8 0 0 1 8,8v32a8,8 0 0 1 -8,8H8a8,8 0 0 1 -8,-8V8a8,8 0 0 1 8,-8z" />
+    <!-- Bag handle -->
+    <path
+        android:pathData="M18,18v-3a6,6 0 0 1 12,0v3"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="2.4"
+        android:strokeLineCap="round" />
+    <!-- Bag body -->
+    <path android:fillColor="#FFFFFF" android:pathData="M12,18h24l-2,23h-20z" />
+    <!-- Lightning bolt = "lite" -->
+    <path android:fillColor="#00796B" android:pathData="M25.5,22l-5.5,8.5h4l-1,6.5l6.5,-9.5h-4.2z" />
+</vector>
